@@ -1,0 +1,10 @@
+11:56:29 **** Incremental Build of configuration Debug for project asdasd ****
+make all 
+Building target: asdasd
+Invoking: Cross GCC Linker
+gcc  -o "asdasd"  ./src/asdasd.o   
+Finished building target: asdasd
+ 
+
+11:56:29 Build Finished. 0 errors, 0 warnings. (took 194ms)
+

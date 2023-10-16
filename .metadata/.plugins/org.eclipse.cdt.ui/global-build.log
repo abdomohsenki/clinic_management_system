@@ -1,0 +1,34 @@
+11:00:39 **** Incremental Build of configuration Debug for project clinicsys ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\clinicsys.o" "..\\src\\clinicsys.c" 
+gcc -o clinicsys.exe "src\\clinicsys.o" 
+Info: Nothing to build for clinicsys
+11:02:54 **** Incremental Build of configuration Debug for project clinicsys ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\clinicsys.o" "..\\src\\clinicsys.c" 
+gcc -o clinicsys.exe "src\\clinicsys.o" 
+C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file clinicsys.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+11:03:01 **** Incremental Build of configuration Debug for project clinicsys ****
+Info: Internal Builder is used for build
+gcc -o clinicsys.exe "src\\clinicsys.o" 
+11:05:19 **** Rebuild of configuration Debug for project clinicsys ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\clinicsys.o" "..\\src\\clinicsys.c" 
+gcc -o clinicsys.exe "src\\clinicsys.o" 
+11:10:41 **** Rebuild of configuration Debug for project clinicsys ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\clinicsys.o" "..\\src\\clinicsys.c" 
+gcc -o clinicsys.exe "src\\clinicsys.o" 
+11:17:01 **** Rebuild of configuration Debug for project clinicsys ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\clinicsys.o" "..\\src\\clinicsys.c" 
+gcc -o clinicsys.exe "src\\clinicsys.o" 
+11:19:30 **** Incremental Build of configuration Debug for project clinicsys ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\clinicsys.o" "..\\src\\clinicsys.c" 
+gcc -o clinicsys.exe "src\\clinicsys.o" 
+11:21:22 **** Incremental Build of configuration Debug for project clinicsys ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\clinicsys.o" "..\\src\\clinicsys.c" 
+gcc -o clinicsys.exe "src\\clinicsys.o" 
